@@ -12,6 +12,5 @@ namespace Aguiar.Mensageria.Core.Models
         public string UserName { get; set; }
         public string Password { get; set; }
         public string ServiceId { get; set; }
-        public string QueueGroupName { get; set; }
     }
 }

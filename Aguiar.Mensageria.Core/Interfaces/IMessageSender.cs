@@ -10,5 +10,7 @@ namespace Aguiar.Mensageria.Core.Interfaces
         IMessageServiceConfiguration Configuration { get; set; }
 
         void SendMessage(MessageContent content);
+
+        int MensagensEnviadas { get; }
     }
 }

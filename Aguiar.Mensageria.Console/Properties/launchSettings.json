@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Aguiar.Mensageria.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
